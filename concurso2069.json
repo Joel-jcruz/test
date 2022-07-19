@@ -11,9 +11,9 @@
 			"Chamados": 31,
 			"Bolas": "36,59,42,23,09,60,18,58,51,56,40,10,11,35,53,43,05,44,54,14,06,55,37,16,03,41,26,01,20,32,48",
 			"concurso_id": 2069,
-			"ganhador":"",
-			"cidade":"",
-			"pequente":""
+			"ganhador":"JOSÉ DOS REIS VILAS BOAS DE LIMA",
+			"cidade":"SÃO JOSÉ DO JACUÍPE - BA",
+			"pequente":"JACI"
 		},
 		{
 			"codigo": 11,
@@ -23,9 +23,9 @@
 			"Chamados": 33,
 			"Bolas": "03,07,31,04,33,56,05,18,06,44,02,16,17,58,40,60,09,29,15,34,19,21,30,48,27,52,35,13,51,39,54,14,45",
 			"concurso_id": 2069,
-			"ganhador":"",
-			"cidade":"",
-			"pequente":""
+			"ganhador":"JOSÉ VITURINO DA SILVA",
+			"cidade":"CAMPO FORMOSO - BA",
+			"pequente":"RUBEM"
 		},
 		{
 			"codigo": 12,
@@ -35,9 +35,9 @@
 			"Chamados": 33,
 			"Bolas": "03,07,31,04,33,56,05,18,06,44,02,16,17,58,40,60,09,29,15,34,19,21,30,48,27,52,35,13,51,39,54,14,45",
 			"concurso_id": 2069,
-			"ganhador":"",
-			"cidade":"",
-			"pequente":""
+			"ganhador":"JURACI BISPO SANTANA",
+			"cidade":"LUZIANA - GO",
+			"pequente":"LUZINETE"
 		},
 		{
 			"codigo": 13,
@@ -47,9 +47,9 @@
 			"Chamados": 29,
 			"Bolas": "18,11,23,41,01,43,57,40,35,51,37,02,17,07,06,47,53,34,08,12,45,44,26,04,33,48,36,60,14",
 			"concurso_id": 2069,
-			"ganhador":"",
-			"cidade":"",
-			"pequente":""
+			"ganhador":"VANILDE DA SILVA MATOS",
+			"cidade":"NOVA FÁTIMA - BA",
+			"pequente":"JUSCELINO"
 		},
 		{
 			"codigo": 14,
@@ -59,9 +59,9 @@
 			"Chamados": 29,
 			"Bolas": "10,39,04,44,24,33,32,21,02,37,13,03,36,48,45,42,06,08,56,54,27,57,60,35,55,26,52,17,14",
 			"concurso_id": 2069,
-			"ganhador":"",
-			"cidade":"",
-			"pequente":""
+			"ganhador":"SILVIO JOSÉ FERREIRA",
+			"cidade":"OUROLÂNIDA - BA",
+			"pequente":"VAN AMBULANTE"
 		}
 	]
 },
