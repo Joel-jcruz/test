@@ -1,0 +1,187 @@
+[
+  {
+    "table": "ganhadores",
+    "rows": [
+      {
+        "codigo": 6,
+        "Premio": 1,
+        "Cartela": "21380005613-49a",
+        "Data": "2022-09-04 09:15:48",
+        "Chamados": 34,
+        "Bolas": "08,31,40,42,21,14,54,46,37,26,13,19,24,16,33,58,04,28,44,06,03,10,48,30,12,09,25,22,35,02,50,11,38,41",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 7,
+        "Premio": 2,
+        "Cartela": "21380055222-77a",
+        "Data": "2022-09-04 09:25:54",
+        "Chamados": 33,
+        "Bolas": "52,39,16,11,49,20,46,01,28,57,51,09,33,13,29,24,04,10,58,02,48,53,40,03,56,23,18,45,43,55,35,32,54",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 8,
+        "Premio": 3,
+        "Cartela": "21380006231-08a",
+        "Data": "2022-09-04 09:43:06",
+        "Chamados": 32,
+        "Bolas": "48,17,33,07,12,16,30,49,56,60,06,14,42,15,04,09,25,02,47,46,24,26,34,57,52,32,58,31,20,41,50,13",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 9,
+        "Premio": 3,
+        "Cartela": "21380000532-40a",
+        "Data": "2022-09-04 09:43:06",
+        "Chamados": 32,
+        "Bolas": "48,17,33,07,12,16,30,49,56,60,06,14,42,15,04,09,25,02,47,46,24,26,34,57,52,32,58,31,20,41,50,13",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 10,
+        "Premio": 4,
+        "Cartela": "21380023904-42b",
+        "Data": "2022-09-04 09:53:04",
+        "Chamados": 29,
+        "Bolas": "09,06,21,55,12,44,17,58,45,03,14,54,37,18,29,01,31,24,19,53,23,13,04,49,34,52,15,48,32",
+        "concurso_id": 0
+      }
+    ]
+  },
+  {
+    "table": "giro_sorte",
+    "rows": [
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380022372-42a",
+        "ordem": 1,
+        "nome_fantasia": "DOUGAS",
+        "endereco_bairro": "LOTEAMENTO",
+        "endereco_cidade": "Mirangaba",
+        "endereco_uf": "BA",
+        "numero_sorteio": "22372",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 21,
+        "posicao_lote": 90
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380033309-42b",
+        "ordem": 2,
+        "nome_fantasia": "2 KILOS",
+        "endereco_bairro": "Alto da Santa Cruz",
+        "endereco_cidade": "SAUDE",
+        "endereco_uf": "BA",
+        "numero_sorteio": "33309",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 267,
+        "posicao_lote": 19
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380000899-66a",
+        "ordem": 3,
+        "nome_fantasia": "GILBERTO PAIXÃO DE OLIVEIRA",
+        "endereco_bairro": "centro",
+        "endereco_cidade": "SENHOR DO BONFIM",
+        "endereco_uf": "BA",
+        "numero_sorteio": "899",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 258,
+        "posicao_lote": 69
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380039171-74a",
+        "ordem": 4,
+        "nome_fantasia": "ROSINETE VIEIRA DE SANTANA",
+        "endereco_bairro": "CATUABA",
+        "endereco_cidade": "JACOBINA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "39171",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 152,
+        "posicao_lote": 13
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380050760-53b",
+        "ordem": 5,
+        "nome_fantasia": "LIDY",
+        "endereco_bairro": "POV AREIA BRANCA",
+        "endereco_cidade": "PIRITIBA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "50760",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 79,
+        "posicao_lote": 59
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380056425-86a",
+        "ordem": 6,
+        "nome_fantasia": "EVILASIO ALVES DOS SANTOS",
+        "endereco_bairro": "Julio Antunes",
+        "endereco_cidade": "Serrolândia",
+        "endereco_uf": "BA",
+        "numero_sorteio": "56425",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 349,
+        "posicao_lote": 77
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380019948-01a",
+        "ordem": 7,
+        "nome_fantasia": "ROUSI - REMANSO",
+        "endereco_bairro": "CENTRO",
+        "endereco_cidade": "REMANSO",
+        "endereco_uf": "BA",
+        "numero_sorteio": "19948",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 231,
+        "posicao_lote": 16
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380048396-97b",
+        "ordem": 8,
+        "nome_fantasia": "ANTONILES MOURA DA COSTA",
+        "endereco_bairro": "DENGO",
+        "endereco_cidade": "EUCLIDES DA CUNHA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "48396",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 32,
+        "posicao_lote": 70
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380053539-01a",
+        "ordem": 9,
+        "nome_fantasia": "TEREZEZINHA",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Ourolandia",
+        "endereco_uf": "BA",
+        "numero_sorteio": "53539",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 193,
+        "posicao_lote": 58
+      },
+      {
+        "concurso_id": 2138,
+        "identificacao": "21380018545-25b",
+        "ordem": 10,
+        "nome_fantasia": "ATRACAO FM",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Campo Alegre de Lourdes",
+        "endereco_uf": "BA",
+        "numero_sorteio": "18545",
+        "data_hora": "2022-09-04 07:18:46",
+        "lote": 259,
+        "posicao_lote": 76
+      }
+    ]
+  }
+]
