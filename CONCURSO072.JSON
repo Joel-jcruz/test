@@ -1,0 +1,187 @@
+[
+  {
+    "table": "ganhadores",
+    "rows": [
+      {
+        "codigo": 7,
+        "Premio": 1,
+        "Cartela": "20720038779-63b",
+        "Data": "2022-08-28 09:12:31",
+        "Chamados": 32,
+        "Bolas": "47,09,19,30,13,51,03,07,28,56,38,20,58,16,21,37,36,34,15,24,29,08,12,42,49,53,45,40,26,55,46,33",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 8,
+        "Premio": 2,
+        "Cartela": "20720047593-12a",
+        "Data": "2022-08-28 09:23:45",
+        "Chamados": 33,
+        "Bolas": "10,60,32,04,39,14,53,58,36,19,51,34,15,47,22,43,01,57,02,30,48,33,54,12,26,27,59,41,24,18,52,21,16",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 9,
+        "Premio": 2,
+        "Cartela": "20720025610-61b",
+        "Data": "2022-08-28 09:23:45",
+        "Chamados": 33,
+        "Bolas": "10,60,32,04,39,14,53,58,36,19,51,34,15,47,22,43,01,57,02,30,48,33,54,12,26,27,59,41,24,18,52,21,16",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 10,
+        "Premio": 3,
+        "Cartela": "20720054370-42a",
+        "Data": "2022-08-28 09:38:53",
+        "Chamados": 30,
+        "Bolas": "39,32,20,43,17,21,51,38,26,02,50,60,11,08,33,23,57,19,49,10,54,28,52,25,15,30,58,13,59,18",
+        "concurso_id": 0
+      },
+      {
+        "codigo": 11,
+        "Premio": 4,
+        "Cartela": "20720041576-51a",
+        "Data": "2022-08-28 09:51:30",
+        "Chamados": 29,
+        "Bolas": "45,18,05,54,57,60,27,07,33,40,10,44,08,55,09,43,52,01,39,53,47,51,13,12,15,35,34,30,26",
+        "concurso_id": 0
+      }
+    ]
+  },
+  {
+    "table": "giro_sorte",
+    "rows": [
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720027906-83a",
+        "ordem": 1,
+        "nome_fantasia": "SANDRO SILVESTRE",
+        "endereco_bairro": "Taquarendi",
+        "endereco_cidade": "Mirangaba",
+        "endereco_uf": "BA",
+        "numero_sorteio": "27906",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 95,
+        "posicao_lote": 90
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720090516-57b",
+        "ordem": 2,
+        "nome_fantasia": "JOEL",
+        "endereco_bairro": "Grotinha",
+        "endereco_cidade": "Jacobina",
+        "endereco_uf": "BA",
+        "numero_sorteio": "90516",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 92528,
+        "posicao_lote": 0
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720009859-68b",
+        "ordem": 3,
+        "nome_fantasia": "LEDA",
+        "endereco_bairro": "centro",
+        "endereco_cidade": "SENHOR DO BONFIM",
+        "endereco_uf": "BA",
+        "numero_sorteio": "9859",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 248,
+        "posicao_lote": 18
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720039929-49a",
+        "ordem": 4,
+        "nome_fantasia": "CLEANE DO ALAZÃO",
+        "endereco_bairro": "alazão",
+        "endereco_cidade": "Ourolandia",
+        "endereco_uf": "BA",
+        "numero_sorteio": "39929",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 332,
+        "posicao_lote": 46
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720057277-85b",
+        "ordem": 5,
+        "nome_fantasia": "EZEQUIEL BRITO MAIA",
+        "endereco_bairro": "cidade nova",
+        "endereco_cidade": "Varzea Nova",
+        "endereco_uf": "BA",
+        "numero_sorteio": "57277",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 158,
+        "posicao_lote": 61
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720043054-72b",
+        "ordem": 6,
+        "nome_fantasia": "ANA GABRIELLE DAMASCENO NERY",
+        "endereco_bairro": "Grotinha",
+        "endereco_cidade": "Jacobina",
+        "endereco_uf": "BA",
+        "numero_sorteio": "43054",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 181,
+        "posicao_lote": 84
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720019058-42a",
+        "ordem": 7,
+        "nome_fantasia": "BINHO-CLEUBER",
+        "endereco_bairro": "PIRANGA",
+        "endereco_cidade": "JUAZEIRO",
+        "endereco_uf": "BA",
+        "numero_sorteio": "19058",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 232,
+        "posicao_lote": 9
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720025174-40b",
+        "ordem": 8,
+        "nome_fantasia": "DODO BANCA",
+        "endereco_bairro": "CENTRO",
+        "endereco_cidade": "EUCLIDES DA CUNHA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "25174",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 406,
+        "posicao_lote": 56
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720017545-49a",
+        "ordem": 9,
+        "nome_fantasia": "CATIANA",
+        "endereco_bairro": "REMANSO",
+        "endereco_cidade": "REMANSO",
+        "endereco_uf": "BA",
+        "numero_sorteio": "17545",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 170,
+        "posicao_lote": 96
+      },
+      {
+        "concurso_id": 2072,
+        "identificacao": "20720050865-47b",
+        "ordem": 10,
+        "nome_fantasia": "ZE FOTOGRAFO",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Quixabeira",
+        "endereco_uf": "BA",
+        "numero_sorteio": "50865",
+        "data_hora": "2022-08-28 07:56:22",
+        "lote": 89,
+        "posicao_lote": 80
+      }
+    ]
+  }
+]
