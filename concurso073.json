@@ -1,0 +1,268 @@
+[
+  {
+    "premiacao": [
+      {
+        "1 PREMIO": "R$: 5 MIL REAIS"
+      },
+      {
+        "2 PREMIO": "R$: 5 MIL REAIS"
+      },
+      {
+        "3 PREMIO": "R$: 5 MIL REAIS"
+      },
+      {
+        "4 PREMIO": " R$: 7.000,00 MIL REAIS"
+      }
+    ]
+  },
+  {
+    "table": "ganhadores",
+    "rows": [
+      {
+        "codigo": 5,
+        "Premio": 1,
+        "Cartela": "20730014764-62a",
+        "Data": "2022-09-11 09:13:30",
+        "Chamados": 35,
+        "Bolas": "03,06,41,37,17,59,28,43,55,53,42,29,05,45,47,25,51,13,26,44,33,08,36,30,07,14,50,40,31,60,09,58,15,54,49",
+        "concurso_id": 2073,
+        "ganhador": "CARLOS ALBERTO ALBINO",
+        "cidade": "JAGUARARI",
+        "ganhador_uf": "BA",
+        "pé-quente": "LUIZINHO"
+      },
+      {
+        "codigo": 6,
+        "Premio": 1,
+        "Cartela": "20730015159-87a",
+        "Data": "2022-09-11 09:13:30",
+        "Chamados": 35,
+        "Bolas": "03,06,41,37,17,59,28,43,55,53,42,29,05,45,47,25,51,13,26,44,33,08,36,30,07,14,50,40,31,60,09,58,15,54,49",
+        "concurso_id": 2073,
+        "ganhador": "EDESIO CORDEIRO DE ALMEIDA",
+        "cidade": "CANCANÇAO",
+        "ganhador_uf": "BA",
+        "pé-quente": "JURACI"
+      },
+      {
+        "codigo": 7,
+        "Premio": 1,
+        "Cartela": "20730028455-02a",
+        "Data": "2022-09-11 09:13:30",
+        "Chamados": 35,
+        "Bolas": "03,06,41,37,17,59,28,43,55,53,42,29,05,45,47,25,51,13,26,44,33,08,36,30,07,14,50,40,31,60,09,58,15,54,49",
+        "concurso_id": 2073,
+        "ganhador": "PABLO RIAN DE FREITAS",
+        "cidade": "REMANSO-BA",
+        "ganhador_uf": "BA",
+        "pé-quente": "BINHO"
+      },
+      {
+        "codigo": 8,
+        "Premio": 2,
+        "Cartela": "20730045131-19b",
+        "Data": "2022-09-11 09:24:44",
+        "Chamados": 31,
+        "Bolas": "01,40,60,36,29,59,58,31,11,54,22,03,16,41,51,56,37,08,27,04,17,21,38,39,10,18,25,15,05,24,34",
+        "concurso_id": 2073,
+        "ganhador": "FLÁVIO GAMA SENA",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA",
+        "pé-quente": "MILENA"
+      },
+      {
+        "codigo": 9,
+        "Premio": 3,
+        "Cartela": "20730029675-49a",
+        "Data": "2022-09-11 09:37:41",
+        "Chamados": 32,
+        "Bolas": "55,08,43,50,60,42,19,49,07,01,21,06,16,30,27,38,24,02,59,25,52,58,32,29,39,26,56,37,28,53,23,12",
+        "concurso_id": 2073,
+        "ganhador": "ADEMAR PEREIRA DA SILVA",
+        "cidade": "CAATINAGA DO MOURA",
+        "ganhador_uf": "BA",
+        "pé-quente": "ELENISE (LIZE)"
+      },
+      {
+        "codigo": 10,
+        "Premio": 4,
+        "Cartela": "20730010057-16b",
+        "Data": "2022-09-11 09:50:49",
+        "Chamados": 33,
+        "Bolas": "01,10,18,42,30,09,36,40,05,38,57,51,14,06,29,58,17,04,27,52,45,33,13,35,07,08,48,44,19,12,53,34,41",
+        "concurso_id": 2073,
+        "ganhador": "CONCEIÇÃO NASCIMENTO DE OLIVEIRA",
+        "cidade": "SENHOR DO BONFIM",
+        "ganhador_uf": "BA",
+        "pé-quente": "ROSIMARIA"
+      }
+    ]
+  },
+  {
+    "table": "giro_sorte",
+    "rows": [
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730053584-29a",
+        "ordem": 1,
+        "nome_fantasia": "ZÉ FOTOGRAFO",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Quixabeira",
+        "endereco_uf": "BA",
+        "numero_sorteio": "53584",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 327,
+        "posicao_lote": 74,
+        "ganhador": "FLORISVALDO NERES DE OLIVEIRA",
+        "cidade": "QUIXABEIRA",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730022235-08b",
+        "ordem": 2,
+        "nome_fantasia": "BINHO-CLEUBER",
+        "endereco_bairro": "PIRANGA",
+        "endereco_cidade": "JUAZEIRO",
+        "endereco_uf": "BA",
+        "numero_sorteio": "22235",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 456,
+        "posicao_lote": 67,
+        "ganhador": "CLAUDIO SOUZA DA SILVA",
+        "cidade": "JUAZEIRO",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730034024-83b",
+        "ordem": 3,
+        "nome_fantasia": "PRETINHO SOM",
+        "endereco_bairro": "Loteamento",
+        "endereco_cidade": "Mirangaba",
+        "endereco_uf": "BA",
+        "numero_sorteio": "34024",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 16,
+        "posicao_lote": 54,
+        "ganhador": "JOVENAL N. GUIMARÃES",
+        "cidade": "MIRANGABA",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730059267-89b",
+        "ordem": 4,
+        "nome_fantasia": "SEDE - RECEPCAO",
+        "endereco_bairro": "centro",
+        "endereco_cidade": "Jacobina",
+        "endereco_uf": "BA",
+        "numero_sorteio": "59267",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 294,
+        "posicao_lote": 65,
+        "ganhador": "IVANILTON BASTOS LIMA",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730020175-03b",
+        "ordem": 5,
+        "nome_fantasia": "BELMIRO",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Senhor do Bonfim",
+        "endereco_uf": "BA",
+        "numero_sorteio": "20175",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 273,
+        "posicao_lote": 85,
+        "ganhador": "ROBERTO A. SANTANA",
+        "cidade": "SENHOR DO BONFIM",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730090827-40b",
+        "ordem": 6,
+        "nome_fantasia": "MERCADO BRASIL - ELI",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Jacobina",
+        "endereco_uf": "BA",
+        "numero_sorteio": "90827",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 94257,
+        "posicao_lote": 0,
+        "ganhador": "ERIKATIA TAVARES SOARES",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA"
+        
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730017738-51a",
+        "ordem": 7,
+        "nome_fantasia": "LIMINHA",
+        "endereco_bairro": "centro",
+        "endereco_cidade": "SENHOR DO BONFIM",
+        "endereco_uf": "BA",
+        "numero_sorteio": "17738",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 150,
+        "posicao_lote": 79,
+        "ganhador": "ELIANE DA SILVA DE OLIVEIRA",
+        "cidade": "SENHOR DO BONFIM",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730025578-49a",
+        "ordem": 8,
+        "nome_fantasia": "FRANCISCO DAS CHAGAS",
+        "endereco_bairro": "SANTANA DO SOBRADO",
+        "endereco_cidade": "CASA NOVA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "25578",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 298,
+        "posicao_lote": 48,
+        "ganhador": "MARCOS ANTÔNIO DE BRITO",
+        "cidade": "CASA NOVA",
+        "ganhador_uf": "BA"
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730004854-27a",
+        "ordem": 9,
+        "nome_fantasia": "MARIA JOELMA DOS SANTOS",
+        "endereco_bairro": "POPULARES",
+        "endereco_cidade": "EUCLIDES DA CUNHA",
+        "endereco_uf": "BA",
+        "numero_sorteio": "4854",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 234,
+        "posicao_lote": 72,
+        "ganhador": "ERIVALDO JOÃO DA SILVA",
+        "cidade": "EUCLIDES DA CUNHA",
+        "ganhador_uf": "BA"
+        
+      },
+      {
+        "concurso_id": 2073,
+        "identificacao": "20730039671-42b",
+        "ordem": 10,
+        "nome_fantasia": "ROBERTANIA GOMES LIMA",
+        "endereco_bairro": "Centro",
+        "endereco_cidade": "Miguel Calmon",
+        "endereco_uf": "BA",
+        "numero_sorteio": "39671",
+        "data_hora": "2022-09-11 07:39:32",
+        "lote": 355,
+        "posicao_lote": 69,
+        "ganhador": "REINALDO LUÍS VIEIRA",
+        "cidade": "MIGUEL CALMON",
+        "ganhador_uf": "BA"
+      }
+    ]
+  }
+]
