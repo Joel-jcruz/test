@@ -9,7 +9,12 @@
         "Data": "2022-08-28 09:12:31",
         "Chamados": 32,
         "Bolas": "47,09,19,30,13,51,03,07,28,56,38,20,58,16,21,37,36,34,15,24,29,08,12,42,49,53,45,40,26,55,46,33",
-        "concurso_id": 0
+        "concurso_id": 2072,
+        "ganhador": "LEANDRO DE SANTANA SANTOS",
+        "cidade": "MIGUEL CALMON",
+        "ganhador_uf": "BA",
+        "pé-quente": "ROBERTANIA"
+        
       },
       {
         "codigo": 8,
@@ -18,7 +23,11 @@
         "Data": "2022-08-28 09:23:45",
         "Chamados": 33,
         "Bolas": "10,60,32,04,39,14,53,58,36,19,51,34,15,47,22,43,01,57,02,30,48,33,54,12,26,27,59,41,24,18,52,21,16",
-        "concurso_id": 0
+        "concurso_id": 2072,
+        "ganhador": "VANUZIA AZEVEDO DOS SANTOS",
+        "cidade": "SAUDE",
+        "ganhador_uf": "BA",
+        "pé-quente": "JOÃO GUGU"
       },
       {
         "codigo": 9,
@@ -27,7 +36,11 @@
         "Data": "2022-08-28 09:23:45",
         "Chamados": 33,
         "Bolas": "10,60,32,04,39,14,53,58,36,19,51,34,15,47,22,43,01,57,02,30,48,33,54,12,26,27,59,41,24,18,52,21,16",
-        "concurso_id": 0
+        "concurso_id": 2072,
+        "ganhador": "UILSON DE JESUS",
+        "cidade": "EUCLIDES DA CUNHA",
+        "ganhador_uf": "BA",
+        "pé-quente": "VANESSA SANTOS"
       },
       {
         "codigo": 10,
@@ -36,7 +49,11 @@
         "Data": "2022-08-28 09:38:53",
         "Chamados": 30,
         "Bolas": "39,32,20,43,17,21,51,38,26,02,50,60,11,08,33,23,57,19,49,10,54,28,52,25,15,30,58,13,59,18",
-        "concurso_id": 0
+        "concurso_id": 2072,
+        "ganhador": "RAFAEL F. SANTOS",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA",
+        "pé-quente": "CARLOS ALBERTO"
       },
       {
         "codigo": 11,
@@ -45,7 +62,11 @@
         "Data": "2022-08-28 09:51:30",
         "Chamados": 29,
         "Bolas": "45,18,05,54,57,60,27,07,33,40,10,44,08,55,09,43,52,01,39,53,47,51,13,12,15,35,34,30,26",
-        "concurso_id": 0
+        "concurso_id": 2072,
+        "ganhador": "GIOMAR GOMES DOS SANTOS",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA",
+        "pé-quente": "CRIS MOURA"
       }
     ]
   },
@@ -63,7 +84,10 @@
         "numero_sorteio": "27906",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 95,
-        "posicao_lote": 90
+        "posicao_lote": 90,
+        "ganhador": "REGINALDO ANDRADE",
+        "cidade": "MIRANGABA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -76,7 +100,10 @@
         "numero_sorteio": "90516",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 92528,
-        "posicao_lote": 0
+        "posicao_lote": 0,
+        "ganhador": "MARIA DE FÁTIMA PEREIRA DOS SANTOS",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -89,7 +116,10 @@
         "numero_sorteio": "9859",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 248,
-        "posicao_lote": 18
+        "posicao_lote": 18,
+        "ganhador": "JAILSON PEREIRA DA SILVA",
+        "cidade": "SENHOR DO BONFIM",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -102,7 +132,10 @@
         "numero_sorteio": "39929",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 332,
-        "posicao_lote": 46
+        "posicao_lote": 46,
+        "ganhador": "MARIA SANDRA SANTANA SANTOS",
+        "cidade": "OUROLÂNDIA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -115,7 +148,10 @@
         "numero_sorteio": "57277",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 158,
-        "posicao_lote": 61
+        "posicao_lote": 61,
+        "ganhador": "JOABSON DOS SANTOS SOUSA",
+        "cidade": "VÁRZEA NOVA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -128,7 +164,10 @@
         "numero_sorteio": "43054",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 181,
-        "posicao_lote": 84
+        "posicao_lote": 84,
+        "ganhador": "LUIZ SANTOS",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -141,7 +180,10 @@
         "numero_sorteio": "19058",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 232,
-        "posicao_lote": 9
+        "posicao_lote": 9,
+        "ganhador": "ANA JOSEFA RODRIGUES DA SILVA",
+        "cidade": "REMANSO",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -154,7 +196,10 @@
         "numero_sorteio": "25174",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 406,
-        "posicao_lote": 56
+        "posicao_lote": 56,
+        "ganhador": "RENIVAL SILVA FERREIRA",
+        "cidade": "EUCLIDES DA CUNHA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -167,7 +212,10 @@
         "numero_sorteio": "17545",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 170,
-        "posicao_lote": 96
+        "posicao_lote": 96,
+        "ganhador": "DAVI NEVES RODRIGUES",
+        "cidade": "REMANSO",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2072,
@@ -180,7 +228,10 @@
         "numero_sorteio": "50865",
         "data_hora": "2022-08-28 07:56:22",
         "lote": 89,
-        "posicao_lote": 80
+        "posicao_lote": 80,
+        "ganhador": "ANALIA ROBERTINA DA SILVA",
+        "cidade": "QUIXABEIRA",
+        "ganhador_uf": "BA"
       }
     ]
   }
