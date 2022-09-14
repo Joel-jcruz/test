@@ -1,4 +1,20 @@
-[
+[ 
+  {
+    "premiacao": [
+      {
+        "1 PREMIO": "R$: 4 MIL REAIS"
+      },
+      {
+        "2 PREMIO": "R$: 5 MIL REAIS"
+      },
+      {
+        "3 PREMIO": "R$: 5 MIL REAIS)"
+      },
+      {
+        "4 PREMIO": " UM CAMINHÃO DE MATERIAL DE CONSTRUÇÃO (PAGO R$: 50.000,00 MIL REAIS)"
+      }
+    ]
+  },
   {
     "table": "ganhadores",
     "rows": [
