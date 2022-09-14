@@ -1,4 +1,20 @@
 [
+{
+    "premiacao": [
+      {
+        "1 PREMIO": "R$: 4 MIL REAIS"
+      },
+      {
+        "2 PREMIO": "R$: 5 MIL REAIS"
+      },
+      {
+        "3 PREMIO": "UM ANO DE SUPERMERCADO (PAGO R$: 6 MIL REAIS)"
+      },
+      {
+        "4 PREMIO": " R$: 55.000,00 MIL REAIS"
+      }
+    ]
+  },
   {
     "table": "ganhadores",
     "rows": [
@@ -9,7 +25,11 @@
         "Data": "2022-09-04 09:15:48",
         "Chamados": 34,
         "Bolas": "08,31,40,42,21,14,54,46,37,26,13,19,24,16,33,58,04,28,44,06,03,10,48,30,12,09,25,22,35,02,50,11,38,41",
-        "concurso_id": 0
+        "concurso_id": 2138,
+        "ganhador": "HELENA LUÍZA DA SILVA",
+        "cidade": "JAGUARARI",
+        "ganhador_uf": "BA",
+        "pé-quente": "LUIZINHO"
       },
       {
         "codigo": 7,
@@ -18,7 +38,11 @@
         "Data": "2022-09-04 09:25:54",
         "Chamados": 33,
         "Bolas": "52,39,16,11,49,20,46,01,28,57,51,09,33,13,29,24,04,10,58,02,48,53,40,03,56,23,18,45,43,55,35,32,54",
-        "concurso_id": 0
+        "concurso_id": 2138,
+        "ganhador": "GRAZIELA CARNEIRO DA SILVA",
+        "cidade": "SERRÔLANDIA",
+        "ganhador_uf": "BA",
+        "pé-quente": "PEDRO FILHO"
       },
       {
         "codigo": 8,
@@ -27,7 +51,11 @@
         "Data": "2022-09-04 09:43:06",
         "Chamados": 32,
         "Bolas": "48,17,33,07,12,16,30,49,56,60,06,14,42,15,04,09,25,02,47,46,24,26,34,57,52,32,58,31,20,41,50,13",
-        "concurso_id": 0
+        "concurso_id": 2138,
+        "ganhador": "DANIELA DO NASCIMENTO SANTOS",
+        "cidade": "SENHOR DO BONFIM",
+        "ganhador_uf": "BA",
+        "pé-quente": "ELISÂNGELA"
       },
       {
         "codigo": 9,
@@ -36,7 +64,11 @@
         "Data": "2022-09-04 09:43:06",
         "Chamados": 32,
         "Bolas": "48,17,33,07,12,16,30,49,56,60,06,14,42,15,04,09,25,02,47,46,24,26,34,57,52,32,58,31,20,41,50,13",
-        "concurso_id": 0
+        "concurso_id": 2138,
+        "ganhador": "ADEMILSON RODRIGUES",
+        "cidade": "CAMPO FORMOSO",
+        "ganhador_uf": "BA",
+        "pé-quente": "ADALBERTO"
       },
       {
         "codigo": 10,
@@ -45,7 +77,11 @@
         "Data": "2022-09-04 09:53:04",
         "Chamados": 29,
         "Bolas": "09,06,21,55,12,44,17,58,45,03,14,54,37,18,29,01,31,24,19,53,23,13,04,49,34,52,15,48,32",
-        "concurso_id": 0
+        "concurso_id": 2138,
+        "ganhador": "UESLEY LIMA ARAÚJO",
+        "cidade": "CAATINGA DO MOURA",
+        "ganhador_uf": "BA",
+        "pé-quente": "ELENISE"
       }
     ]
   },
@@ -63,7 +99,11 @@
         "numero_sorteio": "22372",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 21,
-        "posicao_lote": 90
+        "posicao_lote": 90,
+        "ganhador": "JOELSON MARTINS DE OLIVEIRA",
+        "cidade": "MIRANGABA",
+        "ganhador_uf": "BA"
+        
       },
       {
         "concurso_id": 2138,
@@ -76,7 +116,11 @@
         "numero_sorteio": "33309",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 267,
-        "posicao_lote": 19
+        "posicao_lote": 19,
+        "ganhador": "JOSEMAR SILVA CARVALHO",
+        "cidade": "SAÚDE",
+        "ganhador_uf": "BA"
+
       },
       {
         "concurso_id": 2138,
@@ -89,7 +133,10 @@
         "numero_sorteio": "899",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 258,
-        "posicao_lote": 69
+        "posicao_lote": 69,
+        "ganhador": "MANOEL DE JESUS",
+        "cidade": "JAGUARARI",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -102,7 +149,10 @@
         "numero_sorteio": "39171",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 152,
-        "posicao_lote": 13
+        "posicao_lote": 13,
+        "ganhador": "MARIA DE LOURDES SENA RIBEIRO",
+        "cidade": "JACOBINA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -115,7 +165,10 @@
         "numero_sorteio": "50760",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 79,
-        "posicao_lote": 59
+        "posicao_lote": 59,
+        "ganhador": "CARLITO LIMA",
+        "cidade": "PIRITIBA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -128,7 +181,10 @@
         "numero_sorteio": "56425",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 349,
-        "posicao_lote": 77
+        "posicao_lote": 77,
+        "ganhador": "LAERTHE SILVA REIS",
+        "cidade": "SERRÔLANDIA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -141,7 +197,10 @@
         "numero_sorteio": "19948",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 231,
-        "posicao_lote": 16
+        "posicao_lote": 16,
+        "ganhador": "COSME RIBEIRO ANTUNES",
+        "cidade": "REMANSO",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -154,7 +213,10 @@
         "numero_sorteio": "48396",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 32,
-        "posicao_lote": 70
+        "posicao_lote": 70,
+        "ganhador": "LIRACIO DOS SANTOS",
+        "cidade": "EUCLIDES DA CUNHA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -167,7 +229,10 @@
         "numero_sorteio": "53539",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 193,
-        "posicao_lote": 58
+        "posicao_lote": 58,
+        "ganhador": "SILVANO PEREIRA MONTENEGRO",
+        "cidade": "OUROLÂNDIA",
+        "ganhador_uf": "BA"
       },
       {
         "concurso_id": 2138,
@@ -180,7 +245,10 @@
         "numero_sorteio": "18545",
         "data_hora": "2022-09-04 07:18:46",
         "lote": 259,
-        "posicao_lote": 76
+        "posicao_lote": 76,
+        "ganhador": "MAURICIO DIAS DE SOUZA",
+        "cidade": "CAMPO ALEGRE DE LOURDES",
+        "ganhador_uf": "BA"
       }
     ]
   }
