@@ -29,7 +29,7 @@
             "ganhador":"APARECIDA SANTOS ARAÚJO",
             "cidade":"OUROLÂNDIA",
             "ganhador_uf":"BA",
-            "pé_quente":"VAN"
+            "pe_quente":"VAN"
          },
          {
             "codigo":8,
@@ -42,7 +42,7 @@
             "ganhador":"ALEANDRO MENDES DA SILVA",
             "cidade":"PINDOBAÇU",
             "ganhador_uf":"BA",
-            "pé-quente":"DAIANA"
+            "pe_quente":"DAIANA"
          },
          {
             "codigo":9,
@@ -55,7 +55,7 @@
             "ganhador":"JOSÉ GONÇALVES SOBRINHO",
             "cidade":"FILADÉLFIA",
             "ganhador_uf":"BA",
-            "pé-quente":"KARINE"
+            "pe_quente":"KARINE"
          },
          {
             "codigo":10,
@@ -68,7 +68,7 @@
             "ganhador":"EDILSON JESUS SILVA",
             "cidade":"MIGUEL CALMON",
             "ganhador_uf":"BA",
-            "pé-quente":"ROBERTÂNIA"
+            "pe_quente":"ROBERTÂNIA"
          },
          {
             "codigo":11,
@@ -81,7 +81,7 @@
             "ganhador":"ADEMARIO OLIVEIRA DOS SANTOS",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"EDILEIDE ARAÚJO"
+            "pe_quente":"EDILEIDE ARAÚJO"
          },
          {
             "codigo":12,
@@ -94,7 +94,7 @@
             "ganhador":"SINVAL DOS ANTOS REIS",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"TONHO"
+            "pe_quente":"TONHO"
          },
          {
             "codigo":13,
@@ -107,7 +107,7 @@
             "ganhador":"MANOELA NEVES BONFIM CARVALHO",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"STEFANNY VITÓRIA"
+            "pe_quente":"STEFANNY VITÓRIA"
          },
          {
             "codigo":14,
@@ -120,7 +120,7 @@
             "ganhador":"LUCIVAL NASCIMENTO DOS SANTOS",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"ROSE FURACAO"
+            "pe_quente":"ROSE FURACAO"
          },
          {
             "codigo":15,
@@ -133,7 +133,7 @@
             "ganhador":"HERALDO RODRIGUES CONCEICAO",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"JACOBINA"
+            "pe_quente":"LUIZA GOMES"
          },
          {
             "codigo":16,
@@ -146,7 +146,7 @@
             "ganhador":"EDILENE ANDRADE SOUZA",
             "cidade":"PIRITIBA",
             "ganhador_uf":"BA",
-            "pé-quente":"VAQUEIRA APAIXONADA"
+            "pe_quente":"VAQUEIRA APAIXONADA"
          },
          {
             "codigo":17,
@@ -159,7 +159,7 @@
             "ganhador":"MARIA DE LIMA SILVA",
             "cidade":"LAGES DO BATATA",
             "ganhador_uf":"BA",
-            "pé-quente":"ELENISE"
+            "pe_quente":"ELENISE"
          },
          {
             "codigo":18,
@@ -172,7 +172,7 @@
             "ganhador":"JEFERSON MACEDO DA SILVA",
             "cidade":"MONTE SANTO",
             "ganhador_uf":"BA",
-            "pé-quente":"GILENO"
+            "pe_quente":"GILENO"
          },
          {
             "codigo":19,
@@ -185,7 +185,7 @@
             "ganhador":"VALMIR PEREIRA GOMES",
             "cidade":"JACOBINA",
             "ganhador_uf":"BA",
-            "pé-quente":"BETO"
+            "pe_quente":"BETO"
          },
          {
             "codigo":20,
@@ -198,7 +198,7 @@
             "ganhador":"JORGE GAMA ARAÚJO",
             "cidade":"CANUDOS",
             "ganhador_uf":"BA",
-            "pé-quente":"LUCILENE"
+            "pe_quente":"LUCILENE"
          }
       ]
    },
