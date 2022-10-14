@@ -1,6 +1,7 @@
 [
    {
-      "premiacao":[
+      "premiacao":"valores",
+      "linhas":[
          {
             "1 PREMIO":"R$: 4 MIL REAIS"
          },
