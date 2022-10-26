@@ -29,7 +29,7 @@
         "ganhador": "JOSINEIDE MARIA C. RAMOS ",
         "cidade": "EUCLIDES DA CUNHA",
         "ganhador_uf": "BA",
-        "pé-quente": "MARIA DE FÁTIMA"
+        "pe_quente": "MARIA DE FÁTIMA"
       },
       {
         "codigo": 12,
@@ -42,7 +42,7 @@
         "ganhador": "MARIA HELENA PEREIRA VITORIO",
         "cidade": "OUROLÂNDIA",
         "ganhador_uf": "BA",
-        "pé-quente": "SEDE JACOBINA"
+        "pe_quente": "SEDE JACOBINA"
       },
       {
         "codigo": 13,
@@ -55,7 +55,7 @@
         "ganhador": "ELIZETE OLIVEIRA MOARAIS",
         "cidade": "MIGUEL CALMON",
         "ganhador_uf": "BA",
-        "pé-quente": "ANA LÚCIA"
+        "pe_quente": "ANA LÚCIA"
       },
       {
         "codigo": 14,
@@ -68,7 +68,7 @@
         "ganhador": "ERISVAN PEREIRA DA SILVA",
         "cidade": "PINDOBAÇU",
         "ganhador_uf": "BA",
-        "pé-quente": "FERNANDA"
+        "pe_quente": "FERNANDA"
       },
       {
         "codigo": 15,
@@ -81,7 +81,7 @@
         "ganhador": "PEDRO MAIA NICASSIO",
         "cidade": "SENHOR DO BONFIM",
         "ganhador_uf": "BA",
-        "pé-quente": "RUBINHO"
+        "pe_quente": "RUBINHO"
       },
       {
         "codigo": 16,
@@ -94,7 +94,7 @@
         "ganhador": "HENRIQUE IPSILON DE ARAÚJO",
         "cidade": "JACOBINA",
         "ganhador_uf": "BA",
-        "pé-quente": "LAÍS"
+        "pe_quente": "LAÍS"
       },
       {
         "codigo": 17,
@@ -107,7 +107,7 @@
         "ganhador": "EMERSON DE SOUZA",
         "cidade": "FILADÉLFIA",
         "ganhador_uf": "BA",
-        "pé-quente": "POLY"
+        "pe_quente": "POLY"
       }
     ]
   },
